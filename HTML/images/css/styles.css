@@ -653,7 +653,7 @@ p {
   max-height: 0;
   overflow: hidden;
   opacity: 0;
-  transform: all 0.3s;
+  transition: 0.3s;
 }
 
 .collapsible--expanded .collapsible__chevron {
