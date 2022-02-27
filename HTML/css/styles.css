@@ -182,7 +182,7 @@ p {
 }
 
 .list--tick {
-  list-style-image: url(../HTML/images/tick.svg);
+  list-style-image: url(../images/tick.svg);
   padding-left: 3rem;
   color: var(--color-headings);
 }
