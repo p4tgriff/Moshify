@@ -793,7 +793,7 @@ p {
   }
 
   .banner__content {
-    text-align: left;
+    text-align: center;
     align-self: center;
   }
 }
