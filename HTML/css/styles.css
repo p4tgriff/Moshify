@@ -680,6 +680,7 @@ p {
 
 .block__heading {
   margin-top: 0;
+  font-weight: 100;
 }
 
 .block--dark {
