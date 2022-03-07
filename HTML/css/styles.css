@@ -732,6 +732,7 @@ p {
 .nav__item > a {
   color: #d2d0db;
   transition: color 0.3s;
+  text-decoration: none;
 }
 
 .nav__item > a:hover {
